@@ -1,0 +1,13 @@
+node_modules
+package-lock.json
+.vscode
+dist
+.env
+.DS_Store
+*.log
+npm-debug.log*
+/.idea
+/.parcel-cache
+/.turbo
+coverage
+*.tsbuildinfo
